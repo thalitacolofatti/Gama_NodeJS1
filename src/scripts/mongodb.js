@@ -1,5 +1,4 @@
-// docker ps 
-// docker exec -it 819678c0b18f mongo -u batatinha -p naoehdoritos --authenticationDatabase herois
+
 
 //databases
 show dbs
